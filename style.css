@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(218, 166, 193);
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    }
+.attribution a {
+    color: hsl(273, 79%, 50%); 
+    }
