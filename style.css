@@ -16,7 +16,7 @@ body{
     height:100%;
     display: flex;
 }
-#sedan{
+#sedans{
     background-color: hsl(31, 77%, 52%);
 }
 #suvs{
@@ -30,5 +30,5 @@ body{
     text-align: center;
     }
 .attribution a {
-    color: hsl(273, 79%, 50%); 
+    color: hsl(214, 72%, 56%); 
     }
